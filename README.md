@@ -19,7 +19,7 @@ This project leverages the [Consumer Behavior and Shopping Habits Dataset](https
 [👉 Watch the demo video here](https://youtu.be/GDIEp9cTHi4?si=EW8wvRWOflUlzfnG)
 
 **Website Demo:**  
-[👉 website demo here](https://khoibui-recommendation-system.streamlit.app/)
+[👉 website demo here](https://personalized-recommendation-system.streamlit.app/)
 
 ---
 
