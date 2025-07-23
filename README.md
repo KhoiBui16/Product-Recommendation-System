@@ -26,7 +26,7 @@ This project leverages the [Consumer Behavior and Shopping Habits Dataset](https
 ## 📁 Project Directory Structure
 
 ```
-Final_Project/
+Product-Recommendation-System/
 │
 ├── app.py                                              
 ├── requirements.txt                                    
