@@ -115,6 +115,6 @@ streamlit run app.py
 
 ## 🤝 Contact & Contributions
 
-- **Main Author:** [KhoiBui16] ([khoib1601@example.com](mailto:khoib1601@example.com))
+- **Main Author:** [KhoiBui16] ([khoib1601@gmail.com](mailto:khoib1601@gmail.com))
 - **Contributions, Issues, Ideas:**  
   Please open an issue or pull request on this GitHub repository, or contact via email above.
